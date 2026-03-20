@@ -1,0 +1,14 @@
+stamina for pve mod
+
+
+            "sprintStaminaModifierErc": 0.5,
+            "sprintStaminaModifierCro": 0.5,
+             "staminaWeightLimitThreshold": 50000.0,
+             "staminaMax": 100.0,
+             "staminaKgToStaminaPercentPenalty": 1.65,
+             "staminaMinCap": 5.0,
+             "sprintSwimmingStaminaModifier": 0.5,
+             "sprintLadderStaminaModifier": 0.5,
+             "meleeStaminaModifier": 0.5,
+             "obstacleTraversalStaminaModifier": 0.5,
+             "holdBreathStaminaModifier": 0.75
